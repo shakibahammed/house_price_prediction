@@ -1,6 +1,8 @@
 
 House Price Affordability Prediction (Machine Learning Project)
 
+(Colab_Link: https://colab.research.google.com/drive/1E-GCUihqmObg3aE8k6xxxcAAQwXwgUIL?usp=sharing )
+
 Overview
   This project aims to predict house price affordability using machine learning techniques. It analyzes real-world housing data and builds a regression model to estimate the Price-to-Income Ratio.
 
